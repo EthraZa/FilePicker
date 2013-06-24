@@ -1,0 +1,11 @@
+<Alloy>
+	<Window id="win">
+		<View id="btnBar" class="hBar">
+			<Button id="btnBack" onClick="closeWindow" />
+			<Label class="title" />
+			<Button id="btnOk" onClick="choosePath" />
+		</View>
+		<Label id="path" />
+		<TableView id="table" />
+	</Window>
+</Alloy>

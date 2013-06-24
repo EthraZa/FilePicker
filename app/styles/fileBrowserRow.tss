@@ -1,0 +1,10 @@
+"#img": {
+    left: "2dp",
+    right: "2dp",
+    width: "24dp",
+    height: "24dp"
+},
+
+"#text": {
+    left: "2dp"
+}

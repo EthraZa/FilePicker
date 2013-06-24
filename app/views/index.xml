@@ -1,0 +1,5 @@
+<Alloy>
+	<Window id="win">
+		<Label id="pathLbl" onClick="openBrowser">Click here to pick a file or folder...</Label>
+	</Window>
+</Alloy>

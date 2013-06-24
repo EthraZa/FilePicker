@@ -1,0 +1,30 @@
+"Window": {
+	layout: "vertical",
+	backgroundColor: "#000",
+    borderWidth: 1,
+    borderColor: "#393c39",
+    height: "97%",
+    width: "97%",
+    borderRadius: 3,
+    opacity: 0.98
+},
+
+"#btnOk": {
+	title: L('ok'),
+    top: 0,
+    right: 0
+},
+
+"#path": {
+	left: "7dp",
+	right: "7dp",
+	textAlign: Ti.UI.TEXT_ALIGNMENT_LEFT
+},
+
+".title": {
+	text: L('picker')
+},
+
+"#table": {
+	minRowHeight: "40dp"
+}

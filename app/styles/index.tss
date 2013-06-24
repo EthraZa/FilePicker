@@ -1,0 +1,9 @@
+"#win": {
+	layout: "vertical",
+    fullscreen: false,
+	exitOnClose: true
+},
+"#pathLbl": {
+	width: Ti.UI.FILL,
+	height: Ti.UI.SIZE
+} 
